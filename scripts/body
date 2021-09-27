@@ -1,0 +1,11 @@
+https://dresden-elektronik.github.io/deconz-rest-doc/getting_started/
+
+{"devicetype":"dabin app"}
+
+[
+  {
+    "success": {
+      "username": "4028777175"
+    }
+  }
+]

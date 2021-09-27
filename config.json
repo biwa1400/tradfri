@@ -1,0 +1,9 @@
+{
+  "mqtt_username": "",
+  "mqtt_password": "",
+  "mqtt_host": "",
+  "mqtt_port": 13357,
+  "mqtt_send_topic": "",
+  "mqtt_send_Qos": 0,
+  "sleep_time": 1
+}
